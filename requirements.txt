@@ -30,3 +30,4 @@ duckduckgo-search
 orjson
 gevent
 gevent-websocket
+torch>=2.8.0 # not directly required, pinned by Snyk to avoid a vulnerability

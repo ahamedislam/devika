@@ -30,3 +30,4 @@ duckduckgo-search
 orjson
 gevent
 gevent-websocket
+pypdf>=6.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
